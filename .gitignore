@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+*.ipynb
+.ipynb_checkpoints
+
+# temp files directories
+log
+temp
+
+# large data files
+*.npy
+*.gz
+*.pkl
+
+# configuration files
+*.cfg
+
+# bash files
+*.sh
